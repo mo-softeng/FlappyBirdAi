@@ -37,9 +37,12 @@ Instead of a human controlling the bird, a population of neural-network agents l
 
 - Python 3.9+  
 - `pygame`  
-- (Optional) `numpy` if your implementation uses it
 
 Install dependencies:
 
 ```bash
 pip install pygame numpy
+
+**RUN PROGRAM:**
+ python main.py
+
